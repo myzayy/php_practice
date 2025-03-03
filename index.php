@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Moja prva stranka v php</title>
+    <title>Moja prva stranka v php!</title>
 </head>
 <body>
 
@@ -14,6 +14,6 @@
     echo "Aktualny cas je " . date(format:"H:i:s") . "<br>";
     ?>
 
-    
+
 </body>
 </html>
