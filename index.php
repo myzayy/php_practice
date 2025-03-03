@@ -13,6 +13,7 @@
     echo "Dnes je " . date(format:  "d.m.Y") . "<br>";
     echo "Aktualny cas je " . date(format:"H:i:s") . "<br>";
     ?>
+
     
 </body>
 </html>
